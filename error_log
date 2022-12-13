@@ -1,0 +1,52 @@
+[09-Jun-2022 14:36:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/index.php(41): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
+[09-Jun-2022 14:36:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/index.php(41): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
+[09-Jun-2022 14:36:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/index.php(41): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
+[09-Jun-2022 14:36:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/index.php(41): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
+[09-Jun-2022 14:37:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/index.php(41): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
+[09-Jun-2022 14:37:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/templates/layout.html.php(41): include()
+#1 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/contact.php(45): include('/home2/hornsbyt...')
+#2 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
+[09-Jun-2022 14:37:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/templates/layout.html.php(41): include()
+#1 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/products.php(28): include('/home2/hornsbyt...')
+#2 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
+[09-Jun-2022 14:37:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/templates/shoppingCartLayout.html.php:46
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/shopping.php(64): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/templates/shoppingCartLayout.html.php on line 46
+[09-Jun-2022 14:37:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/templates/shoppingCartLayout.html.php:46
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/shopping.php(64): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/templates/shoppingCartLayout.html.php on line 46
+[09-Jun-2022 14:37:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ShoppingCart' not found in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php:6
+Stack trace:
+#0 /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/index.php(41): include()
+#1 {main}
+  thrown in /home2/hornsbytafetest/public_html/magenta02/Chao-Deliverable-D/countTotalItems.php on line 6
